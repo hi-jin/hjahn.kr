@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T11:43:19.692+09:00","cssclasses":""}
+{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T15:43:21.060+09:00","cssclasses":""}
 ---
 
 # Hyungjin Ahn
@@ -8,7 +8,7 @@
 
 ![[attachments/prof_pic.webp|300]]
 
-I am currently pursuing a Master's degree in the [School of Computing](https://cs.kaist.ac.kr/) at **KAIST** (Korea Advanced Institute of Science and Technology). I am a member of the [**Web Engineering and Service Computing Lab (Webeng)**](https://webeng.kaist.ac.kr/).
+I am currently pursuing a Master's degree in the [School of Computing](https://cs.kaist.ac.kr/) at **KAIST** (Korea Advanced Institute of Science and Technology). I am a member of the [Web Engineering and Service Computing Lab (Webeng)](https://webeng.kaist.ac.kr/).
 
 Previously, I completed my B.S. in Computer Science and Engineering at [Chungnam National University](https://computer.cnu.ac.kr), graduating at the top of my class (Rank 1st/103). My background includes experience as a freelance application developer and an undergraduate research intern at [ISoft Lab](https://isoft.cnu.ac.kr).
 
