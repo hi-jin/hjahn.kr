@@ -1,3 +1,8 @@
+---
+{"publish":true,"created":"2025-12-24T15:58:37.415+09:00","modified":"2025-12-24T16:11:10.625+09:00","cssclasses":""}
+---
+
+
 Analyzing rejection patterns in academic papers to uncover key insights for crafting exceptional research papers
 
 > This is a simple analysis driven by personal curiosity about “`why papers get rejected`” rather than a rigorously validated research experiment.
