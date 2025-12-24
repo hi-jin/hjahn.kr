@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T15:43:21.060+09:00","cssclasses":""}
+{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T15:51:36.158+09:00","cssclasses":""}
 ---
 
 # Hyungjin Ahn
