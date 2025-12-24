@@ -20,7 +20,7 @@ Major rejection reasons (essential principles) are:
 - Systematic Experimentation: Rigorous methodology and thorough validation
 
 ![[projects/attachments/Pasted image 20251224155929.png]]
-> ⬆️ The patterns of rejected papers from OpenReview. (Searched on Google. 955 review data)
+> The patterns of rejected papers from OpenReview. (Searched on Google. 955 review data)
 
 ### Process 1. Crawl and refine data
 
