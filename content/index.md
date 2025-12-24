@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T11:40:52.166+09:00","cssclasses":""}
+{"publish":true,"title":"hjahn.kr","created":"2025-12-22T15:13:12.574+09:00","modified":"2025-12-24T11:43:19.692+09:00","cssclasses":""}
 ---
 
 # Hyungjin Ahn
 
-### **M.S. Student at KAIST** *Daejeon, Republic of Korea*
+**M.S. Student at KAIST** (*Daejeon, Republic of Korea*)
 
 ![[attachments/prof_pic.webp|300]]
 
